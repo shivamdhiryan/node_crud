@@ -1,0 +1,4 @@
+# Ignore ndoe_modules directory
+node_modules/
+.env
+#other entries...
